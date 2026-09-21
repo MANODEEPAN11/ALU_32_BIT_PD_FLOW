@@ -151,7 +151,8 @@ Steps under Floorplan :
    
 • Select Floorplan → Specify Floorplan to modify/add concerned values to the above Factors. On adding/modifying the concerned values, the core area is also modified.
 
-<img width="1920" height="1020" alt="Screenshot 2026-09-05 141529" src="https://github.com/user-attachments/assets/468a296c-828d-4ed0-97be-aec07eef55db" />
+<img width="1920" height="1020" alt="image (11)" src="https://github.com/user-attachments/assets/cef71180-c835-4e3e-877e-51f63763e560" />
+
 
 ### Fig.9 Specify Floorplan 
 
@@ -200,9 +201,10 @@ Moreover, the cells that would be placed inside the core area are expected to ha
 
 • After the Special Route is complete, all the Standard Cell Rows turn to the Color coded for Metal 1 
 
-<img width="1920" height="1020" alt="Screenshot 2026-09-05 141948" src="https://github.com/user-attachments/assets/ef9c63d6-32ae-4218-a943-b0fcb2cdd7c3" />
+<img width="1920" height="1020" alt="image (12)" src="https://github.com/user-attachments/assets/972f9da8-4738-4e80-9668-44b91a60bca9" />
 
-<img width="1920" height="1020" alt="Screenshot 2026-09-05 142053" src="https://github.com/user-attachments/assets/06b7e1cf-c2ae-4843-8860-49e2a254e487" />
+<img width="1920" height="1020" alt="image (13)" src="https://github.com/user-attachments/assets/8c25257c-0b0b-42b4-b20e-9aa1e74530bd" />
+
 
 ### Fig. 10 Power plan 
 
@@ -215,10 +217,9 @@ The complete Power Planning process makes sure Every Standard Cell receives enou
 2. Select Place → Place Standard Cell → Run Full Placement → Mode → Enable ‘Place I/O Pins’ → OK → OK .
    
 • All the Standard Cells and Pins are placed as per the communication between them, i.e., Two communicating Cells are placed as close as possible so that shorter Net lengths can be used for connections as Shorter Net Lengths enable Better Timing Results.
+<img width="1920" height="1020" alt="image (15)" src="https://github.com/user-attachments/assets/e35b5915-bc76-4930-8285-2e850bf76424" />
 
-<img width="1920" height="1020" alt="Screenshot 2026-09-05 142719" src="https://github.com/user-attachments/assets/abc76193-26f5-4551-bac3-69be4c54abdb" />
-
-<img width="1920" height="1020" alt="Screenshot 2026-09-05 142249" src="https://github.com/user-attachments/assets/eebcdba7-8c3d-41c2-aee2-cd36a652b698" />
+<img width="1920" height="1020" alt="image (16)" src="https://github.com/user-attachments/assets/6fdead62-20b7-4d67-82b4-0e79fb004fe2" />
 
 ### Fig. 11 Placement of standard Cells 
 
